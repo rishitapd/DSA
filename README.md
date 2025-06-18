@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishitapd/DSA/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/rishitapd/DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishitapd/DSA/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/rishitapd/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/rishitapd/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/rishitapd/DSA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -24,6 +26,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rishitapd/DSA/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/rishitapd/DSA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
