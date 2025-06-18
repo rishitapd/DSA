@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishitapd/DSA/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/rishitapd/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/rishitapd/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rishitapd/DSA/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/rishitapd/DSA/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +35,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishitapd/DSA/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rishitapd/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
