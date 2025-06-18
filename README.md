@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/rishitapd/DSA/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/rishitapd/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rishitapd/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishitapd/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishitapd/DSA/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -20,16 +21,19 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishitapd/DSA/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/rishitapd/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rishitapd/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rishitapd/DSA/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/rishitapd/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rishitapd/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rishitapd/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rishitapd/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -50,4 +54,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rishitapd/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rishitapd/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rishitapd/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
