@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishitapd/DSA/tree/master/0015-3sum) |
+| [0074-search-a-2d-matrix](https://github.com/rishitapd/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/rishitapd/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishitapd/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishitapd/DSA/tree/master/0283-move-zeroes) |
@@ -57,9 +58,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rishitapd/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/rishitapd/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishitapd/DSA/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/rishitapd/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
