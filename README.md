@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/rishitapd/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishitapd/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishitapd/DSA/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rishitapd/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/rishitapd/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/rishitapd/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishitapd/DSA/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rishitapd/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishitapd/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rishitapd/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
