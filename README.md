@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishitapd/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rishitapd/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitapd/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rishitapd/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -34,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishitapd/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rishitapd/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rishitapd/DSA/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/rishitapd/DSA/tree/master/0268-missing-number) |
