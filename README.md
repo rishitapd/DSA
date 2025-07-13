@@ -48,6 +48,7 @@
 | [0048-rotate-image](https://github.com/rishitapd/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rishitapd/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishitapd/DSA/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/rishitapd/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0058-length-of-last-word](https://github.com/rishitapd/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/rishitapd/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/rishitapd/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/rishitapd/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishitapd/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/rishitapd/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
